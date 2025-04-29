@@ -69,27 +69,3 @@ It's designed for developers, designers, and entrepreneurs who want to quickly p
      docker-compose up
      ```
 
----
-
-## 🤝 Contribution Guidelines
-
-### 🌱 How to Get Involved
-
-1. **Fork the repo**
-2. **Clone your fork**
-   ```bash
-   git clone https://github.com/your-username/Bolt-Clone.git
-   ```
-3. **Create a branch**
-   ```bash
-   git checkout -b feature/<your-feature>
-   ```
-4. **Make changes and commit**
-   ```bash
-   git add .
-   git commit -m "feat: added new feature"
-   ```
-5. **Push and raise PR**
-   ```bash
-   git push origin feature/<your-feature>
-   ```
